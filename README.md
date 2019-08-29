@@ -87,7 +87,7 @@ Sjá Uglu seinna í vikunni.
 
 ## Verkefni
 
-* sett fyrir seinna í vikunni.
+* [Verkefni 1](https://github.com/Wolfcoder13/vef1-2019-v1), sett fyrir 29. ágúst, skilist 6. september fyrir miðnætti.
 
 
 ## Hópverkefni
