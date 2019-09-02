@@ -83,6 +83,8 @@ Sjá Uglu seinna í vikunni.
 
 * [Fyrirlestur 1, 26. ágúst 2019](fyrirlestrar/01/)
   - Kynning, inngangur, HTML #1
+* [Fyrirlestur 2, 2. september 2019](fyrirlestrar/02/)
+  - Element, merkingarfræði, aðgengi og SEO
 
 
 ## Verkefni
