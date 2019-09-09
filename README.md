@@ -85,12 +85,15 @@ Sjá Uglu seinna í vikunni.
   - Kynning, inngangur, HTML #1
 * [Fyrirlestur 2, 2. september 2019](fyrirlestrar/02/)
   - Element, merkingarfræði, aðgengi og SEO
+* [Fyrirlestur 3, 9. september 2019](fyrirlestrar/03/)
+  - CSS, syntax, specificity og cascade, box model
 
 
 ## Verkefni
 
 * [Verkefni 1](https://github.com/Wolfcoder13/vef1-2019-v1), sett fyrir 29. ágúst, skilist 6. september fyrir miðnætti.
 * [Verkefni 2](https://github.com/Wolfcoder13/vef1-2019-v2), sett fyrir 2. september, skilist 10. september fyrir miðnætti.
+* [Verkefni 3](https://github.com/Wolfcoder13/vef1-2019-v3), sett fyrir 9. september, skilist 17. september fyrir miðnætti.
 
 
 ## Hópverkefni
