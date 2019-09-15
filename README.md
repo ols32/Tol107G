@@ -87,6 +87,8 @@ Sjá Uglu seinna í vikunni.
   - Element, merkingarfræði, aðgengi og SEO
 * [Fyrirlestur 3, 9. september 2019](fyrirlestrar/03/)
   - CSS, syntax, specificity og cascade, box model
+* [Fyrirlestur 4, 16. september 2019](fyrirlestrar/04/)
+  - Visual formatting, letur og texti, litir og bakgrunnar, variables
 
 
 ## Verkefni
