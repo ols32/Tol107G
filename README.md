@@ -96,6 +96,7 @@ Sjá Uglu seinna í vikunni.
 * [Verkefni 1](https://github.com/Wolfcoder13/vef1-2019-v1), sett fyrir 29. ágúst, skilist 6. september fyrir miðnætti.
 * [Verkefni 2](https://github.com/Wolfcoder13/vef1-2019-v2), sett fyrir 2. september, skilist 10. september fyrir miðnætti.
 * [Verkefni 3](https://github.com/Wolfcoder13/vef1-2019-v3), sett fyrir 9. september, skilist 17. september fyrir miðnætti.
+* [Verkefni 4](https://github.com/Wolfcoder13/vef1-2019-v4), sett fyrir 16. september, skilist 24. september fyrir miðnætti.
 
 
 ## Hópverkefni
