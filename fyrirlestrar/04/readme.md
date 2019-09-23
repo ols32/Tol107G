@@ -1,4 +1,4 @@
-# Fyrirlestur 4, 17. september 2018
+# Fyrirlestur 4, 16. september 2019
 
 [Fyrirlestur 4.1: CSS – Visual formatting](04.1.css.md)
 
