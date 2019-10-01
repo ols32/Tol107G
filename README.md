@@ -91,6 +91,8 @@ Sjá Uglu seinna í vikunni.
   - Visual formatting, letur og texti, litir og bakgrunnar, variables
 * [Fyrirlestur 5, 23. september 2019](fyrirlestrar/05/)
   - Flexbox, CSS í stærri verkefnum. Git, GitHub
+* [Fyrirlestur 6, 30. september 2019](fyrirlestrar/06/)
+  - Skalanlegir vefir og kvikun.
 
 
 ## Verkefni
@@ -102,6 +104,7 @@ Sjá Uglu seinna í vikunni.
     - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v3-synilausn)
 * [Verkefni 4](https://github.com/Wolfcoder13/vef1-2019-v4), sett fyrir 16. september, skilist 24. september fyrir miðnætti.
 * [Verkefni 5](https://github.com/Wolfcoder13/vef1-2019-v5), sett fyrir 23. september, skilist 1. oktober fyrir miðnætti.
+* [Verkefni 6](https://github.com/Wolfcoder13/vef1-2019-v6), sett fyrir 30. september, skilist 8. oktober fyrir miðnætti.
 
 
 ## Hópverkefni
