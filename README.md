@@ -103,7 +103,9 @@ Sjá Uglu seinna í vikunni.
 * [Verkefni 3](https://github.com/Wolfcoder13/vef1-2019-v3), sett fyrir 9. september, skilist 17. september fyrir miðnætti.
     - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v3-synilausn)
 * [Verkefni 4](https://github.com/Wolfcoder13/vef1-2019-v4), sett fyrir 16. september, skilist 24. september fyrir miðnætti.
+    - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v4-synilausn)
 * [Verkefni 5](https://github.com/Wolfcoder13/vef1-2019-v5), sett fyrir 23. september, skilist 1. oktober fyrir miðnætti.
+    - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v5-synilausn)
 * [Verkefni 6](https://github.com/Wolfcoder13/vef1-2019-v6), sett fyrir 30. september, skilist 8. oktober fyrir miðnætti.
 
 
