@@ -10,15 +10,15 @@
 
 Til að stofna aðgang á github farið þið einfaldlega inn á [Github](https://github.com/) og veljið `"Sign up"` uppi í hægra horninu.
 
-![Sign up](/sign-up.png)
+![Sign up](sign-up.png)
 
 Síðan er fyllt inn upplýsingar um hvað Github notendanafnið ykkar eigi að vera, hvaða veffang er tengt við aðganginn ykkar og hvað lykilorðið ykkar þarf að vera. *Síðan þurfið þið að spila einhvern leik til þess að geta haldið áfram. Snúið dýrinu rétt, og ýtið á done.* Síðan ýtið þið á `"Next: Select a plan"`
 
-![Create Account](/create-account.png)
+![Create Account](create-account.png)
 
 Þið getið bara valið ókeypis planið :)
 
-![Create Account](/choose-plan.png)
+![Create Account](choose-plan.png)
 
 Þið fáið staðfestingar póst sendann á veffangið sem þið tengduð við Github. Þið þurfið að staðfesta aðganginn ykkar áður en þið fáið að gera hluti. Svo klárið þaða ferli.
 
@@ -26,11 +26,11 @@ Síðan er fyllt inn upplýsingar um hvað Github notendanafnið ykkar eigi að 
 
 Hér fyrir neðan sjáum við Forsíðuna á okkar Github síðu. Við skulum velja `Repositories`. Ég var ekki reiður þegar ég var að undirstrika Repositories, heldur var ég bara að reyna gera það augljóst.
 
-![Profile Page](/profile-page.png)
+![Profile Page](profile-page.png)
 
 Þegar við erum komin á repositories síðuna getum við valið að búa til nýtt repository með því að velja `New`.
 
-![Repositories](/repositories.png)
+![Repositoriesrepositories.png)
 
 Við veljum eitthvað nafn fyrir repo-ið okkar. Ég valdi `leidbeiningar`, þótt `supreme-enigma` er svosem alveg ágætt nafn líka fyrir repo eins og github mælir með...... Ég mæli samt með að fyrir þennann áfanga reynið þið að vera með lýsandi repo nöfn.
 
@@ -38,11 +38,11 @@ Við getum haft repo-ið public eða private. Í þessum áfanga væri best ef �
 
 Svo ýtum við á `Create repository`.
 
-![Create Repository](/create-repository.png)
+![Create Repository](create-repository.png)
 
 Þá erum við komin með tómt repository inná Github, og endum á síðu sem endar einhvernveginn svona
 
-![Empty Repository](/empty-repository.png)
+![Empty Repository](empty-repository.png)
 
 Næst skulum við skoða hvernig við getum Fært hluti í repo-ið okkar. Við getum fylgt leiðbeiningunum sem Git sýnir þarna. En það er til styttri leið sem ég ætla að sýna ykkur.  
 
@@ -65,17 +65,17 @@ Eftir að við höfum installað git á tölvuna okkar þá skulum við opna com
 
 Þá erum við komin með nýja möppu sem heitir leidbeiningar. Mappan heitir það sama og repo-ið heitir sem ég bjó til og klónaði, svo hún mun auðvitað heita eitthvað annað í ykkar tilfelli.... eins og til dæmis `supreme-enigma` eða `Verkefni 6`.
 
-![Emtpy Directory](/empty-directory-repository.png)
+![Emtpy Directory](empty-directory-repository.png)
 
 ### Bætum við skrám og pushum.
 
 Inní þessari möppu ætla ég núna að búa til leiðbeiningar fyrir github. Ég tók nokkrar myndir og skrifaði markdown skjal og þá lítur mappan mín svona út:
 
-![Full Directory](/full-directory-repository.png)
+![Full Directory](full-directory-repository.png)
 
 Núna fer ég aftur í command line og prófa að skrifa git status. Ég nota `git status` oft til að sjá hvað er ástandið er á git repo-inu.
 
-![Git status](/git-status-1.png)
+![Git status](git-status-1.png)
 
 Núna sjáum við allar skrárnar okkar rauðar. Þær eru Untracked. Eins og stendur getum við notað `git add` til þess að þær verði með næst þegar við gerum `git commit`. Skrifum inn:
 
@@ -84,7 +84,7 @@ Núna sjáum við allar skrárnar okkar rauðar. Þær eru Untracked. Eins og st
  git status
  ```
 
-![Git status](/git-status-2.png)
+![Git status](git-status-2.png)
 
 Núna sjáum við allar skrárnar okkar grænar. Þær verða allar með næst þegar við gerum `git commit`. Við skulum gera það.
 
@@ -92,7 +92,7 @@ Núna sjáum við allar skrárnar okkar grænar. Þær verða allar með næst �
  git commit -m "first commit"
  ```
 
- ![Git commit](/git-commit.png)
+ ![Git commit](git-commit.png)
 
  Núna höfum við committað öllum skránum okkar, og commit skilaboðin eru "first commit". Núna erum við búin að taka snapshot af því hvernig mappan lítur út akkurat núna, og við getum hvenær sem er farið til baka og séð möppuna eins og hún er núna.
 
@@ -102,13 +102,13 @@ Núna sjáum við allar skrárnar okkar grænar. Þær verða allar með næst �
  git push origin master
  ```
 
- ![Git push](/git-push.png)
+ ![Git push](git-push.png)
 
  Þið verðið kannski spurð um að skrifa inn notendanafnið ykkar og password.
 
  Núna sjáum við að allar skrárnar okkar eru komnar inná github
 
-![Full repository](/full-repository.png)
+![Full repository](full-repository.png)
 
 ### Breytum skrám og pushum
 
@@ -124,20 +124,20 @@ Við sjáum að þetta eru "Galdraskipanirnar" þrjár sem þið munið nota mj�
 
 Þá lítur github síðan okkar svona út
 
-![Full repository](/full-repository.png)
+![Full repository](full-repository.png)
 
 ## Auðvelda leiðin fyrir einstaklings verkefnin.
 
 Farið á github síðuna mína með verkefninu og forkið
 
-![Fork](/git-fork.png)
+![Fork](git-fork.png)
 
 Þá eruð þið komið með afrit af repository-inu á ykkar github síðu sem þið geti breytt að vild.
 
 Afritið git hlekkinn og klónið verkefnið á tölvuna ykkar
 
-![Git fork](/clone-forked-repo.png)
-![Git fork link](/clone-forked-repo-link.png)
+![Git fork](clone-forked-repo.png)
+![Git fork link](clone-forked-repo-link.png)
 
 ```sh
 git clone https://github.com/GitLeidbeiningar/leidbeiningar.git
