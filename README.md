@@ -4,6 +4,11 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í áfangagnum vefforritun
 
 Upptökur af fyrirlestrum er að finna á uglu.
 
+## Stuttar Github leiðbeiningar
+Ég bjó til Github leiðbeiningar með slatta af myndum til að útskýra það allra helsta sem þarf að kunna til að nota git fyrir næstu verkefni.
+
+[Git og Github Leiðbeiningar](git_leidbeiningar/)
+
 ## Dæmatímar
 
 Sjá Uglu seinna í vikunni.
