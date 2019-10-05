@@ -30,7 +30,7 @@ Hér fyrir neðan sjáum við Forsíðuna á okkar Github síðu. Við skulum ve
 
 Þegar við erum komin á repositories síðuna getum við valið að búa til nýtt repository með því að velja `New`.
 
-![Repositoriesrepositories.png)
+![Repositories](repositories.png)
 
 Við veljum eitthvað nafn fyrir repo-ið okkar. Ég valdi `leidbeiningar`, þótt `supreme-enigma` er svosem alveg ágætt nafn líka fyrir repo eins og github mælir með...... Ég mæli samt með að fyrir þennann áfanga reynið þið að vera með lýsandi repo nöfn.
 
