@@ -98,6 +98,8 @@ Sjá Uglu seinna í vikunni.
   - Flexbox, CSS í stærri verkefnum. Git, GitHub
 * [Fyrirlestur 6, 30. september 2019](fyrirlestrar/06/)
   - Skalanlegir vefir og kvikun.
+* [Fyrirlestur 7, 7. október 2019](fyrirlestrar/07/)
+  - node.js, NPM, pakkar, Sass og stylelint
 
 
 ## Verkefni
