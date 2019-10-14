@@ -100,6 +100,8 @@ Sjá Uglu seinna í vikunni.
   - Skalanlegir vefir og kvikun.
 * [Fyrirlestur 7, 7. október 2019](fyrirlestrar/07/)
   - node.js, NPM, pakkar, Sass og stylelint
+* [Fyrirlestur 8, 14. október 2019](fyrirlestrar/08/)
+  - JavaScript, breytur, gagnatög, stýriskipanir, föll
 
 
 ## Verkefni
