@@ -120,7 +120,7 @@ Sjá Uglu seinna í vikunni.
   - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v5-synilausn)
 * [Verkefni 6](https://github.com/Wolfcoder13/vef1-2019-v6), sett fyrir 30. september, skilist 8. október fyrir miðnætti.
   - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v6-synilausn)
-* [Verkefni 7](https://github.com/Wolfcoder13/vef1-2019-v7), sett fyrir 30. september, skilist 8. október fyrir miðnætti.
+* [Verkefni 7](https://github.com/Wolfcoder13/vef1-2019-v7), sett fyrir 21. oktober, skilist 31. október fyrir miðnætti.
 
 
 ## Hópverkefni
