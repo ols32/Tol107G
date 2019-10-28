@@ -1,4 +1,4 @@
-# Fyrirlestur 8, 22. október 2018
+# Fyrirlestur 8, 21. október 2019
 
 [Fyrirlestur 9.1: Array og objects](09.1.array.objects.md)
 

@@ -104,6 +104,8 @@ Sjá Uglu seinna í vikunni.
   - JavaScript, breytur, gagnatög, stýriskipanir, föll
 * [Fyrirlestur 9, 21. október 2019](fyrirlestrar/09/)
   - Arrays, Obects, Errors, regex og modules.
+* [Fyrirlestur 10, 28. október 2019](fyrirlestrar/10/)
+  - Ósamstillt forritun, DOM og atburðir, atburðir
 
 
 
