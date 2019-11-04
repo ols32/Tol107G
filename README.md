@@ -106,6 +106,8 @@ Sjá Uglu seinna í vikunni.
   - Arrays, Obects, Errors, regex og modules.
 * [Fyrirlestur 10, 28. október 2019](fyrirlestrar/10/)
   - Ósamstillt forritun, DOM og atburðir, atburðir
+* [Fyrirlestur 11, 4. nóvember 2019](fyrirlestrar/11/)
+  - HTTP, AJAX og Eslint
 
 
 
@@ -123,7 +125,9 @@ Sjá Uglu seinna í vikunni.
 * [Verkefni 6](https://github.com/Wolfcoder13/vef1-2019-v6), sett fyrir 30. september, skilist 8. október fyrir miðnætti.
   - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v6-synilausn)
 * [Verkefni 7](https://github.com/Wolfcoder13/vef1-2019-v7), sett fyrir 21. oktober, skilist 31. október fyrir miðnætti.
-* [Verkefni 8](https://github.com/Wolfcoder13/vef1-2019-v8), sett fyrir 28. október, skilist 7. nóvember fyrir miðnætti
+* [Verkefni 8](https://github.com/Wolfcoder13/vef1-2019-v8), sett fyrir 28. október, skilist 7. nóvember fyrir miðnætti.
+* [Verkefni 9](https://github.com/Wolfcoder13/vef1-2019-v9), sett fyrir 4. október, skilist 14. nóvember fyrir miðnætti.
+
 
 
 ## Hópverkefni
