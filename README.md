@@ -133,6 +133,7 @@ Sjá Uglu seinna í vikunni.
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/Wolfcoder13/vef1-2019-h1), sett fyrir 7. október, skilist 25. október fyrir miðnætti.
+* [Hópverkefni 2](https://github.com/Wolfcoder13/vef1-2019-h2), sett fyrir 8. Nóvember, skilist 29. október fyrir miðnætti.
 
 ---
 
