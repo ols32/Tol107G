@@ -108,6 +108,8 @@ Sjá Uglu seinna í vikunni.
   - Ósamstillt forritun, DOM og atburðir, atburðir
 * [Fyrirlestur 11, 4. nóvember 2019](fyrirlestrar/11/)
   - HTTP, AJAX og Eslint
+* [Fyrirlestur 12, 11. nóvember 2019](fyrirlestrar/12/)
+  - Fallaforritun, Hlutir, fleiri Tól, HTML5
 
 
 
@@ -126,7 +128,8 @@ Sjá Uglu seinna í vikunni.
   - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v6-synilausn)
 * [Verkefni 7](https://github.com/Wolfcoder13/vef1-2019-v7), sett fyrir 21. oktober, skilist 31. október fyrir miðnætti.
 * [Verkefni 8](https://github.com/Wolfcoder13/vef1-2019-v8), sett fyrir 28. október, skilist 7. nóvember fyrir miðnætti.
-* [Verkefni 9](https://github.com/Wolfcoder13/vef1-2019-v9), sett fyrir 4. október, skilist 14. nóvember fyrir miðnætti.
+* [Verkefni 9](https://github.com/Wolfcoder13/vef1-2019-v9), sett fyrir 4. nóvember, skilist 14. nóvember fyrir miðnætti.
+* [Verkefni 10](https://github.com/Wolfcoder13/vef1-2019-v10), sett fyrir 13. nóvember, skilist 21. nóvember fyrir miðnætti.
 
 
 
